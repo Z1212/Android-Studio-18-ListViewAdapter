@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">18ListView_Adapter</string>
+    <string name="title">listView adapter</string>
+    <string name="mag">作業</string>
+</resources>
